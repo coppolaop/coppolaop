@@ -11,8 +11,8 @@
 
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/coppolaop)
 
-- 🔭 I’m currently working on [MonstreadorAPI](https://github.com/DarksunTeam/MonstreadorAPI)
-- 🤝 I’m currently collaborating on [Monstreador](https://github.com/DarksunTeam/Monstreador)
+- 🔭 I’m currently working on [RestaurantTech](https://github.com/coppolaop/RestaurantTech)
+- 🤝 I’m currently teaching at [Darksun Projects](https://github.com/DarksunTeam)
 - 💬 Ask me about **whatever I can help**
 
 <h3 align="left">Connect with me:</h3>
