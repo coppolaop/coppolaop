@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" alt="animated" />
 </p>
 <h1 align="center">I'm Marcos Gonçalves</h1>
-<h3 align="center">Enthusiast of new technologies, software architecture and Role Playing Games.</h3>
+<h3 align="center">Software Engineer, Tech Lead and Java Specialist</h3>
+<h3 align="center">I'm also Enthusiast of new technologies, software architecture and Role Playing Games.</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coppolaop" alt="coppolaop" /></a>
