@@ -1,6 +1,12 @@
 name: Automatically updated Readme
 
 on:
+  workflow_dispatch:
+    inputs:
+      event_type:
+        description: 'Type of event'
+        required: true
+        default: 'manual-trigger'
   schedule:
     - cron: '55 11 * * *'
 
