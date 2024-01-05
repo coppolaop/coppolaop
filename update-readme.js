@@ -12,8 +12,8 @@ axios.get(apiUrl)
             process.exit(0);
         }
 
-        const latestRepoName = pushEvent.repo.name;
-        const latestRepoUrl = pushEvent.repo.url;
+        const latestRepoName = pushEvent.repo.name.split('/').pop();
+        const latestRepoUrl = "https://github.com/" + pushEvent.repo.name;
 
         const readmeContent = fs.readFileSync("README.md", 'utf-8');
 
