@@ -22,7 +22,7 @@ axios.get(apiUrl)
         const updatedReadmeContent = readmeContent.replace(/- 🔭 I’m currently working on .*/, updatedLine);
 
 
-        fs.writeFileSync(readmePath, updatedReadmeContent, 'utf-8');
+        fs.writeFileSync("README.md", updatedReadmeContent, 'utf-8');
     })
     .catch(error => {
         console.error('Erro ao obter dados da API:', error);
