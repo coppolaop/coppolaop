@@ -12,7 +12,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/coppolaop)
 [![Automatically updated Readme](https://github.com/coppolaop/coppolaop/actions/workflows/stale.yml/badge.svg)](https://github.com/coppolaop/coppolaop/actions/workflows/stale.yml)
 
-- 🔭 I’m currently working on [RestaurantTech](https://github.com/coppolaop/RestaurantTech)
+- 🔭 I’m currently working on [coppolaop/coppolaop](https://api.github.com/repos/coppolaop/coppolaop)
 - 🤝 I’m currently teaching at [Darksun Projects](https://github.com/DarksunTeam)
 - 💬 Ask me about **whatever I can help**
 
