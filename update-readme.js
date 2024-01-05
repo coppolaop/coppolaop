@@ -15,7 +15,7 @@ axios.get(apiUrl)
         const latestRepoName = pushEvent.repo.name;
         const latestRepoUrl = pushEvent.repo.url;
 
-        const readmeContent = fs.readFileSync(readmePath, 'utf-8');
+        const readmeContent = fs.readFileSync("README.md", 'utf-8');
 
         const updatedLine = `- 🔭 I’m currently working on [${latestRepoName}](${latestRepoUrl})`;
 
