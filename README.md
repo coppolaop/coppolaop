@@ -12,7 +12,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/coppolaop)
 [![Automatically updated Readme](https://github.com/coppolaop/coppolaop/actions/workflows/stale.yml/badge.svg)](https://github.com/coppolaop/coppolaop/actions/workflows/stale.yml)
 
-- 🔭 I’m currently working on [ZooAPI](https://github.com/DarksunTeam/ZooAPI)
+- 🔭 I’m currently working on [CordelRPG](https://github.com/coppolaop/CordelRPG)
 - 🤝 I’m currently teaching at [Darksun Projects](https://github.com/DarksunTeam)
 - 💬 Ask me about **whatever I can help**
 
