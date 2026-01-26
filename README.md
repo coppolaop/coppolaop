@@ -12,7 +12,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/coppolaop)
 [![Automatically updated Readme](https://github.com/coppolaop/coppolaop/actions/workflows/stale.yml/badge.svg)](https://github.com/coppolaop/coppolaop/actions/workflows/stale.yml)
 
-- 🔭 I’m currently working on [foundryvtt-mythic-gme](https://github.com/coppolaop/foundryvtt-mythic-gme)
+- 🔭 I’m currently working on [caves-and-hexes-module](https://github.com/coppolaop/caves-and-hexes-module)
 - 🤝 I’m currently teaching at [Darksun Projects](https://github.com/DarksunTeam)
 - 💬 Ask me about **whatever I can help**
 
